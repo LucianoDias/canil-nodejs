@@ -6,6 +6,13 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
+# passos
+# npm init / npm tsc --init
+#npm install express mustache-express dotenv
+#npm install --save-dev @types/express @types/mustache-express @types/node
+# depentencias globais  nodemon typescript ts-node
+
+
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
@@ -40,6 +47,7 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+_html/
 
 # TypeScript v1 declaration files
 typings/
